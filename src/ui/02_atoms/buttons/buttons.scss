@@ -1,0 +1,48 @@
+#button {
+    background: transparent;
+    padding: 10px 50px;
+    border: .5px solid $white;
+    border-radius: 3px;
+}
+
+.button button{
+    padding: 15px 60px;
+    background: $white;
+    border: 3px solid $textBlack;
+    border-radius: 3px;
+}
+
+.button_primary button {
+    padding: 15px 60px;
+    background: $primary1;
+    border: none;
+    border-radius: 3px;
+}
+
+.button_section_3 button{
+    padding: 15px 60px;
+    background: transparent;
+    border: 1px solid $primary1;
+    border-radius: 3px;    
+}
+
+.input-field {
+    margin-top: 10px;
+}
+
+.input-field input {
+    width: 90%;
+    padding: 15px;
+}
+
+.button {
+    margin-top: 15px;
+}
+
+.button_primary {
+    margin-top: 15px;
+}
+
+@media(max-width: 700px) {
+    
+}
